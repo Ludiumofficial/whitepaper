@@ -1,7 +1,6 @@
 # Table of contents
 
-* [루디움 백서](README.md)
-* [Welcome](welcome.md)
+* [Welcome](README.md)
 * [Why Ludium? - Socioholic Public House](why-ludium-socioholic-public-house.md)
 * [On-Going Community](on-going-community.md)
 * [Proof of Conduct](proof-of-conduct.md)
@@ -12,4 +11,4 @@
 * [Social Token](social-token.md)
 * [Governance](governance.md)
 * [Road map](road-map.md)
-* [방역 정책](undefined-1.md)
+* [방역 정책](undefined.md)
