@@ -48,4 +48,4 @@ NFT 프로젝트 기획, 다오 운영 등 **이미 크립토 활동을 진척�
 
 모든 모임의 운영, 참여와 제안은 행위 증명을 통해 보상을 받을 수 있어.
 
-[(행위증명 바로가기)](https://www.notion.so/Proof-of-Conduct-9d13b2d403374062bd340e747c611b7c)
+[(행위증명 바로가기)](proof-of-conduct.md)
