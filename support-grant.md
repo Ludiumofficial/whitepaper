@@ -46,6 +46,8 @@
 > 2. Welcome 카테고리의 #Support 채널에서 티켓을 생성한다
 > 3. 후원 금액을 말한다
 > 4. 후원 계좌로 금액을 송금한다. 루디움 후원 계좌: 0xdcFDEDBfB0C9e779de301aCDD88b7a0400E5914c
-> 5. 이더스캔 송금 내역 링크를 #ticket에 첨부하여 후원 완료를 통보한다. 예시:[https://etherscan.io/tx/0xeff1d5ae75cc75e34dca04016ce3f4efc0a1487949759d6d611ca072541c48f1](https://etherscan.io/tx/0xeff1d5ae75cc75e34dca04016ce3f4efc0a1487949759d6d611ca072541c48f1)
+> 5. 이더스캔 송금 내역 링크를 #ticket에 첨부하여 후원 완료를 통보한다.&#x20;
+>
+> **예시**: [https://etherscan.io/tx/0xeff1d5ae75cc75e34dca04016ce3f4efc0a1487949759d6d611ca072541c48f1](https://etherscan.io/tx/0xeff1d5ae75cc75e34dca04016ce3f4efc0a1487949759d6d611ca072541c48f1)
 
-후원은 선착순으로 진행되기 때문에 송금이 완료된 순서로 마감될거야.
+후원은 선착순으로 진행되기 때문에 송금이 완료된 순서로 마감될 거야.
