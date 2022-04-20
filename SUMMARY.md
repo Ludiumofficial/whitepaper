@@ -12,6 +12,9 @@
 * [Governance](governance.md)
 * [Road map](road-map.md)
 * [방역 정책](undefined.md)
+
+## OTHER LINK
+
 * [루디움 라이브러리](https://ludium.gitbook.io/welcome/)
 * [GEM-STUDEY](https://ludium.gitbook.io/gem-study/)
 * [GEM-GLOSSARY](https://ludium.gitbook.io/gem-glossary/)
