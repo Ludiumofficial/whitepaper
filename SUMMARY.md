@@ -16,7 +16,7 @@
 ## OTHER LINK
 
 * [루디움 라이브러리](https://ludium.gitbook.io/welcome/)
-* [GEM-STUDEY](https://ludium.gitbook.io/gem-study/)
+* [GEM-STUDY](https://ludium.gitbook.io/gem-study/)
 * [GEM-GLOSSARY](https://ludium.gitbook.io/gem-glossary/)
 * [GEM-STORAGE](https://ludium.gitbook.io/gem-storage/)
 * [CRYPTO PROJECT](https://ludium.gitbook.io/projecet/)
